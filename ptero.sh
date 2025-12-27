@@ -10,7 +10,7 @@ YELLOW='\033[1;33m'
 BOLD='\033[1m'
 
 # Correct URLs
-PANEL_URL="https://raw.githubusercontent.com/rasinopgg/installer/main/panel.sh"
+PANEL_URL="https://raw.githubusercontent.com/rasinop/Installer/refs/heads/main/panel.sh"
 NODE_URL="https://raw.githubusercontent.com/rasinop/Installer/refs/heads/main/node.sh"
 
 menu() {
